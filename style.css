@@ -1,26 +1,32 @@
 body {
 	margin: 0;
 	min-width: 960px;
-	font-family: "Montserrat", "Helvetica", Arial, sans-serif;
+	font-family: "Comic Sans MS", "Montserrat", "Helvetica", Arial, sans-serif;
 	font-size: 16px;
 	line-height: 2;
 	color: #f2f2f2;
-	background-image: url("img/back.jpg");
 	background-repeat:  no-repeat;
 	background-position: top center;
-	background-color: #24292b;
+	background-color: #95a0ad;
 	background-size: 100%;
+	color: #222426;
 }
 
 header {
 	padding: 20px 0 32px;
-}
-
-.header-prod {
+	background-color: #454a51;
 	padding-right: 100px;
 	text-align: right;
 	font-size: 120%;
 	color: #849295;
+}
+
+footer {
+	color: #849295;
+	background-color: #24292b;
+	padding-left: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .main-all {
@@ -29,4 +35,12 @@ header {
 
 h1 {
 	font-size: 40px;
+}
+
+ul {
+	list-style-image: url("img/file.png");
+}
+
+a {
+	color: #3c4045;
 }
