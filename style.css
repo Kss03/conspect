@@ -7,7 +7,7 @@ body {
 	color: #f2f2f2;
 	background-repeat:  no-repeat;
 	background-position: top center;
-	background-color: #95a0ad;
+	background-color: #b2bcc5;
 	background-size: 100%;
 	color: #222426;
 }
@@ -29,12 +29,26 @@ footer {
 	padding-bottom: 20px;
 }
 
+main {
+	text-align: center;
+}
+
 .main-all {
-	padding:  0px 350px 50px;
+	width: 60%;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	margin: auto;
 }
 
 h1 {
 	font-size: 40px;
+}
+
+.list-heading {
+	text-align: left;
+	padding-left: 20%;
 }
 
 ul {
