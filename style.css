@@ -31,13 +31,14 @@ footer {
 
 main {
 	text-align: center;
+	padding-bottom: 50px;
 }
 
 .main-all {
 	width: 60%;
 	top: 0;
 	right: 0;
-	left: 0;
+	left: ;
 	bottom: 0;
 	margin: auto;
 }
