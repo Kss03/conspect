@@ -1,7 +1,8 @@
 body {
 	margin: 0;
 	min-width: 960px;
-	font-family: "Comic Sans MS", "Montserrat", "Helvetica", Arial, sans-serif;
+	min-height: 100%;
+	font-family: 'Popular pairings with Neucha', "Comic Sans MS", "Montserrat", "Helvetica", Arial, sans-serif;
 	font-size: 16px;
 	line-height: 2;
 	color: #f2f2f2;
