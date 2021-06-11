@@ -28,12 +28,10 @@ footer {
 }
 
 main {
-	margin: auto;
+	margin: 0 30% 0 30%;
 }
 
 .parent {
-	margin: 0 30% 0 30%;
-	/*width: 50%;*/
 }
 
 .block {
@@ -49,6 +47,6 @@ a {
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 35px;
 	text-align: center;
 }
