@@ -31,9 +31,10 @@ main {
 	margin: auto;
 }
 
-.all-lists {
-	padding-left: 450px;
+.parent {
+	padding-left: 35%;
 }
+
 
 ul {
 	list-style-image: url("img/file.png");
