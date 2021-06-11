@@ -32,9 +32,13 @@ main {
 }
 
 .parent {
-	padding-left: 35%;
+	margin: 0 30% 0 30%;
+	width: 50%;
 }
 
+.block {
+
+}
 
 ul {
 	list-style-image: url("img/file.png");
